@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langfuse==3.2.0
+langchain-ollama
+ollama
+python-dotenv
+streamlit
